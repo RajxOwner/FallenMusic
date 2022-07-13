@@ -1,9 +1,9 @@
 <p align="center">
-    <br><b>😫 𝗙𝗮𝗹𝗹𝗲𝗻 𝗠𝘂𝘀𝗶𝗰 😫</b><br>
+    <br><b>😈 RYZEN MODZ MUSIC 😈</b><br>
 </p>
 <p align="center"><a href="https://t.me/DevilsHeavenMF"><img src="https://telegra.ph/file/89cbc8b8760b6abff430f.jpg"></a></p>
 
-Fallen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+Ryzen Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
