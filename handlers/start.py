@@ -19,7 +19,7 @@ async def start_(client: Client, message: Message):
 ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴍʏ ᴄᴏᴍᴍᴀɴᴅ ʜᴀɴᴅʟᴇʀs : ( `/ . • $ ^ ~ + * ?` )
 ┏━━━━━━━━━━━━━━┓
 ┣★
-┣★ ᴍᴀᴅᴇ ʙʏ: [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](t.me/{me})
+┣★ ᴍᴀᴅᴇ ʙʏ: [❛ 𝐑𝐀𝐉 ❜ 〆 𝙁𝙏𝙒 𝖋𝖑𝖆𝖒𝖊™](t.me/{me})
 ┣★
 ┗━━━━━━━━━━━━━━┛
 
@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
                         "🔎 ɪɴʟɪɴᴇ 🔎", switch_inline_query_current_chat=""
                     ),
                     InlineKeyboardButton(
-                        "❄️ DEVELOPER ❄️", url="https://Instagram.com/raj_x_owner"
+                        "❄️ DEVELOPER ❄️", url="https://t.me/YouKnowRAJ"
                     )]
             ]
        ),
